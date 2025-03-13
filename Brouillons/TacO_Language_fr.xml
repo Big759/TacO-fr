@@ -85,6 +85,7 @@ Source  :
 	<token key="showraid_hall_of_chains"              value="Salle des chaînes"/>
 	<token key="showraid_mythwright_gambit"           value="Gambit de forgeconte"/>
 	<token key="showraid_the_key_of_ahdashim"         value="La clé d'Ahdashim"/>
+	<token key="showraid_mount_balrior"	              value="Mont Balrior"/>
 	<token key="opendungeonprogress"                  value="Ouvrir le suivi des donjons"/>
 	<token key="closedungeonprogress"                 value="Fermer le suivi des donjons"/>
 	<token key="enabletpnotificationicon"             value="Icône de notification du comptoir"/>
