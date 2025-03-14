@@ -85,7 +85,7 @@ Source  :
 	<token key="showraid_hall_of_chains"              value="Salle des chaînes"/>
 	<token key="showraid_mythwright_gambit"           value="Gambit de forgeconte"/>
 	<token key="showraid_the_key_of_ahdashim"         value="La clé d'Ahdashim"/>
-	<token key="showraid_mount_balrior"	              value="Mont Balrior"/>
+	<token key="showraid_mount_balrior"               value="Mont Balrior"/>
 	<token key="opendungeonprogress"                  value="Ouvrir le suivi des donjons"/>
 	<token key="closedungeonprogress"                 value="Fermer le suivi des donjons"/>
 	<token key="enabletpnotificationicon"             value="Icône de notification du comptoir"/>
@@ -332,5 +332,46 @@ Source  :
 	<token key="sparkplug_depot"                      value="Dépôt Bougie"/>
 	<token key="withered_outpost"                     value="Avant-poste étiolé"/>
 	<token key="y_lan_academy"                        value="Académie de Y'lan"/>
+
+	<!-- 2023 -->
+	<token key="HiddenCategorySingular" value="%d Catégorie masqué"/>
+	<token key="HiddenCategoryPlural" value="%d Catégories masquées"/>
+	<token key="togglecrashoptout" value="Envoi automatique des rapports d'incidents"/>
+	<token key="toggleclipboardaccess" value="Activer l'écriture dans le presse-papiers"/>
+	<token key="downloadingmarkerpack" value="Téléchargement de la nouvelle version du pack de marqueurs :"/>
+	<token key="onlinemarkers" value="Packs de marqueurs en ligne"/>
+	<token key="downloadmarkers" value="Mise à jour automatique des packs de marqueurs"/>
+	<token key="downloadmarkers" value="Mise à jour automatique des packs de marqueurs"/>
+	<token key="forcefestivals" value="Afficher les marqueurs de festival lorsque le festival est inactif"/>
+	<token key="nocategoryhiding" value="Toujours afficher l'arborescence complète des catégories"/>
+	<token key="downloadpackfail" value="N'A PAS PU ÊTRE TÉLÉCHARGÉ : "/>
+	<token key="downloadingpack" value="(Téléchargement) "/>
+	<token key="packdownloaded" value="(Mise à jour !) "/>
+	<token key="packversioncheckfail" value="ÉCHEC DE LA VÉRIFICATION DE LA VERSION : "/>
+	<token key="*add_default_marker_2" value="Ajouter un POI (Catégorie 2 par défaut)"/>
+	<token key="*add_default_marker_3" value="Ajouter un POI (Catégorie 3 par défaut)"/>
+	<token key="*add_default_marker_4" value="Ajouter un POI (Catégorie 4 par défaut)"/> 
+	<token key="*add_default_marker_5" value="Ajouter un POI (Catégorie 5 par défaut) (CATÉGORIE DE PARCOURS PAR DÉFAUT !)"/>
+	<token key="*delete_selected_marker" value="Supprimer le marqueur sélectionné"/>
+	<token key="enableexternalediting" value="Autoriser la sélection de marqueurs externes (modifications non sauvegardées !)"/>
+	<token key="hideexternalmarkers" value="Masquer tous les marqueurs externes (utile pour l'édition)"/>
+	<token key="exportmymapmaprkers" value="Exporter mes marqueurs de cette carte"/>
+	<token key="prevsegment" value="Sélectionner le segment précédent"/>
+	<token key="nextsegment" value="Sélectionner le segment suivant"/>
+	<token key="starttrail" value="Démarrer l'enregistrement d'un nouveau parcours"/>
+	<token key="pausetrail" value="Mettre en pause l'enregistrement du parcours"/>
+	<token key="startnewsection" value="Démarrer un nouveau segment"/>
+	<token key="deletelastsegment" value="Supprimer la sélection ou dernier segment"/>
+	<token key="savetrail" value="Enregistrer le parcours dans un fichier .trl"/>
+	<token key="loadtrail" value="Charger un parcours à partir d'un fichier .trl"/>
+	<token key="newtrail" value="Ajouter un nouveau marqueur de parcours"/>
+	<token key="*delete_selected_segment" value="Supprimer le segment sélectionné"/>
+	<token key="*copy_selected_marker" value="Copier le marqueur sélectionné avec un petit décalage"/>
+	<token key="TacOOnTaskBar" value="Afficher TacO dans la barre des tâches Windows (redémarrer)"/>
+	<token key="selectcategorytoedit" value="Sélectionner la catégorie à modifier"/>
+	<token key="setmarkercategory" value="Changer la catégorie d'un marqueur ou d'un parcours"/>
+	<token key="deletemarker" value="Supprimer un marqueur/parcours"/>
+	<token key="*undo_edit" value="Annuler la dernière modification"/>
+	<token key="*redo_edit" value="Rétablir la dernière modification"/>
 
 </TacOLanguageData>
